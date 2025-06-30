@@ -1,4 +1,6 @@
-Advanced AI Stock Prediction Model - Frontend
+# Advanced AI Stock Prediction Model - Frontend
+# AI, acting as a coding assistant and debugger, helped generate code, fix errors, implement features, and structure the project for this stock prediction application.
+
 This is the frontend component of an advanced AI stock prediction application. It provides a user-friendly interface to view stock predictions, manage a personal watchlist, analyze company fundamentals, and stay updated with market news.
 
 ✨ Features
