@@ -1,3 +1,4 @@
+# app.py
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import random
@@ -318,5 +319,4 @@ if __name__ == '__main__':
     #    pip install Flask Flask-CORS yfinance pandas numpy
     # 5. Run the app: python app.py
     # The app will typically run on http://127.0.0.1:5000/
-    app.run(debug=True)
-
+    app.run(debug=True, host='0.0.0.0') # Added host='0.0.0.0'
